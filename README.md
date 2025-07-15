@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a student<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m a student<br>👯 I’m looking to collaborate on my learning journey<br>🤝 I’m looking for help with my coding skill<br>🌱 I’m currently learning all this program<br>💬 Ask me about food<br>⚡ Fun fact : i like a cat
 
 
 ## 🌐 Socials:
